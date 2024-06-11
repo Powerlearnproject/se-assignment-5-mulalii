@@ -1,0 +1,48 @@
+INSTALLATION
+Installing vscode was pretty easy just went to the browser and then asked for then entered 
+https://code.visualstudio.com/download and then choose the windows option due to me using
+windows and that is that.
+There really werent any prerequisites needed just make sure to read some of the offered options
+
+I first looked for set up my terminal so it works with the vscode. After the terminal
+i set up git and downloaded that extension thats is all i need for now we build as we go.
+
+VsCode activity bar is mainly holds other sections of vscode such as extensions, and explorer.
+Status bar shows you the status of your git hub whether or not there is a pull request and other information.
+Side bar is for navigation between files and directories.
+In vscode An editor group allows us to edit code more fluently essentially its when the editor is split. 
+
+COMMAND Palette
+Command Palettes in vscode enables users to find and apply commands.
+They can be accessed on through View > Command Palettes.
+The command pallete can be used to add cursor any direction or focus on a certain output
+
+Extensions
+Extensions are tools that make development easier for developers they help is automation, code monitoring and other things.
+You can find and manage extensions on the activity bar Extension or pressing ctrl shift X.
+Some examples of extensions that help in web development are auto close tag, Prettier and Gitlens
+
+Terminal
+To access the terminal in vs code you can go to the Command Palette search up
+View: Toggle Intergrated Terminal and select it. 
+You can navigate between files and directories easily using the side bar
+
+Management of files and directories
+The side bar is used for the management of files and directories if needed you can
+manually create new files and directories via left click and open the folder with vs code another
+way is to user the terminal with the commands cd, ls, find, etc to manage the files and directories.
+
+Settings
+At the bottom of your activity bar the setting menu is found you click it
+and go to < setting there you have access to the themes and keybind manupulation.
+You can also change fonts and other things.
+By clicking on the < theme panel in settings other options are given to you so you can change the theme.
+
+Debugging features
+Set breakpoints for focusing on a line of code.
+call stack for viewing the call stack and navigating through function calls.
+
+Source control
+You can install gitlens for some autor changes and commits monitoring.
+you have to work with the terminal and configure git there to commit changes easily.
+After the changes you can add and commit your code then push to a repository. 
